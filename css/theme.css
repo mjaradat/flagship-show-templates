@@ -1,0 +1,388 @@
+body{padding:0}
+body,table td,select,button{color:#211D1E;font:14px Tahoma,Geneva,sans-serif}
+a,.pager .next a,.pager .previous a{color:#6d6e71}
+.mains.AbeerAbed #wrapper{background:url(../img/winners/AbeerAbed.jpg?nocach=yes) center center no-repeat transparent}
+.mains.BarGenerations #wrapper{background:url(../img/winners/BarGenerations.jpg?nocach=no) center center no-repeat transparent}
+.mains.diamelBenyahia #wrapper{background:url(../img/winners/diamelBenyahia.jpg?nocach=no) center center no-repeat transparent}
+.mains.EmanBeshah #wrapper{background:url(../img/winners/EmanBeshah.jpg?nocach=no) center center no-repeat transparent}
+.mains.EmanShamite #wrapper{background:url(../img/winners/EmanShamite.jpg?nocach=no) center center no-repeat transparent}
+.mains.Freelusion #wrapper{background:url(../img/winners/Freelusion.jpg?nocach=no) center center no-repeat transparent}
+.mains.mozarTayfKhaial #wrapper{background:url(../img/winners/mozarTayfKhaial.jpg?nocach=no) 1000px center no-repeat transparent}
+.mains.MustafaDaguir #wrapper{background:url(../img/winners/MustafaDaguir.jpg?nocach=no) center center no-repeat transparent}
+.mains.SarahVagabond #wrapper{background:url(../img/winners/SarahVagabond.jpg?nocach=n1) center center no-repeat transparent}
+.mains.NorhanKhatab #wrapper{background:url(../img/winners/NorhanKhatab.jpg?nocach=n1) center center no-repeat transparent}
+a:hover,.pager .next a:hover,.pager .previous a:hover,#main .archttl h3 a:hover,#main .wrap .archttl p a:hover{color:#303030}
+a img,.wrap_trivia img,#extras .box,.button-wrapper input,.wrap-options li .button{border:0 none}
+.featured-articles .item:hover .main-img a img,.featured-articles .item:hover p,.featured-articles .item:hover h4 a,.program-listing .SS_roll > div:hover .main-img img,.program-listing .SS_roll > div:hover h3 a,.prime-series .SS_roll > div:hover .main-img img,.prime-series .SS_roll > div:hover h3 a{color:#303030}
+.content-stream .content .txt{background:#eee}
+.box01 h4.headline a{color:#6e6d6d}
+.tabactive .box01:hover h4.headline a{color:#303030}
+.box01 .txt .caption{color:#b6b5b5}
+#extras .featured-articles{background:#E5E5E5}
+#main .box.poll_sml .text:hover,#extras .box.poll_sml .text:hover,#main .box.poll_sml .text.image:hover,#extras .box.poll_sml .text.image:hover,#main .box.poll_sml .gig-button-down .text,#extras .box.poll_sml .gig-button-down .text,.box.poll_sml .questionName{color:#303030}
+#main .box.poll_sml .text,#extras .box.poll_sml .text,#main .box.poll_sml .text.image,#extras .box.poll_sml .text.image,.box.poll_sml .head h3{color:#3b3b3b}
+.box.poll_sml .results dd span{color:#dfdfda}
+.results dd strong,.results dd .bar{background-image:url(../img/poll-result.jpg)}
+#main .box.wrap_maintt4 #button,#extras .box.wrap_maintt4 #button{background:#706E6D!important}
+#extras .mystuff .alboum-list h3 a:hover,#main .mystuff .alboum-list h3 a:hover{color:#303030!important}
+#extras .box.wrap_maintt4 #button > a,#main .box.wrap_maintt4 #button > a{background-image:url(../img/bullet.jpg)\9!important;background-color:#303030!important}
+#extras .box.wrap_maintt4 #button > a.active,#main .box.wrap_maintt4 #button > a.active{background-image:url(../img/bullet-active.jpg)\9!important;background-color:#fff!important}
+#main .wrap_maintt4 .head h3{line-height:36px;padding:0 0 15px!important}
+#main .box.wrap_maintt4 #button .disabledArrow,#main .box.wrap_maintt4 #button > a,#extras .box.wrap_maintt4 #button .disabledArrow,#extras .box.wrap_maintt4 #button > a{display:inline-block;float:none;left:auto;top:4px}
+.take-over{height:0;margin:0 auto;overflow:visible;position:relative;width:1010px;z-index:49}
+#section-header{height:33px;width:980px}
+.program-listing-contents .SS_roll{left:25px!important}
+.wrap_channel_navigation{height:auto;margin:0 auto;right:0}
+.wrap_channel_navigation li{margin:0;background:url(../img/nav-separate.jpg) left center no-repeat;margin-right:-2px}
+.wrap_channel_navigation ul li a,.wrap_channel_navigation ul li strong{font:25px/13px MyTestMedium;padding:0;margin:0}
+.wrap_channel_navigation li.first-child{margin-right:8px}
+.wrap_channel_navigation li.last-child{background:none}
+.wrap_channel_navigation ul ul{top:42px}
+.wrap_channel_navigation ul ul li{margin:0}
+.wrap_channel_navigation ul ul li a{line-height:4px;margin:0;padding:10px 15px}
+.followBarHeader{color:#040404;font:22px/25px mytestmedium;margin:0;position:absolute;top:30px;width:300px;right:187px}
+.followBarHeader span{font:22px/25px mytestmedium}
+.stage{margin:auto}
+.over-text{background:rgba(0,0,0,0.0);border:0;direction:rtl;left:40px;margin:0;text-align:right;top:20px;width:263px;opacity:1;padding:20px}
+.over-text b a,.over-text b a span{font:26px/30px mytestbold;color:#fff}
+.over-text span{font:20px/22px MyTestMedium!important;color:#fff}
+.over-text ul li{text-align:center}
+.over-text li a{background:#fff;color:#666;display:inline-block;font:20px/20px mytestbold;padding:2px 10px 9px;text-align:center;webkit-border-radius:5px;moz-border-radius:5px;border-radius:5px}
+.photosgallery-std .sliderkit-panel{height:347px}
+.photosgallery-std{padding:0 0 86px;height:347px}
+.sliderkit .sliderkit-nav{bottom:-343px}
+.photosgallery-std .sliderkit-nav-clip ul li a{float:right}
+.sliderkit .sliderkit-nav-clip ul li{padding:5px}
+.photosgallery-std .sliderkit-nav-clip ul li p{float:right;margin-left:10px;margin-right:5px;text-align:right;width:120px}
+.photosgallery-std .sliderkit-nav-clip ul li.sliderkit-selected a{border:0}
+.sliderkit-selected,.st1:hover{cursor:pointer}
+.photosgallery-std .sliderkit-nav-clip ul li.sliderkit-selected p,.photosgallery-std .sliderkit-nav-clip ul li:hover p{color:#151515}
+.photosgallery-std .sliderkit-go-btn{height:28px;padding:28px 0}
+.photosgallery-std .sliderkit-nav .sliderkit-go-prev a{background:url(../img/arrow-right.png) no-repeat scroll center 0;display:block;height:36px;margin:0 29px 0 0;width:28px}
+.photosgallery-std .sliderkit-nav .sliderkit-go-next a{background:url(../img/arrow-left.png) no-repeat scroll center 0;display:block;height:36px;margin:0 29px 0 0;width:28px}
+#wrapper-3-inner{background:#fff;width:980px;padding:0;min-height:800px;margin-top:12px}
+.mains div#wrapper-3-inner{margin-top:0;margin-top:370px}
+#main{width:642px;padding-bottom:0}
+#main .box.floatingtakeover > h1{color:#7f7f7f;font:36px mytestmedium}
+.tabs{padding:0!important;margin:0 0 15px;background:#ececed}
+.tabs li{background:url(../img/tabs-separate.jpg) left center no-repeat;margin:0 -2px 0 0}
+.tabs li:last-child{background:none}
+.tabs .tab a{display:inline-block;padding:4px 10px 10px;font:24px/22px MyTestMedium;webkit-border-radius:0;moz-border-radius:0;border-radius:0;background:transparent;color:#3b3b3b}
+.tabs li a:hover,.tabs .active a{background:#777;color:#fff;webkit-border-radius:0;moz-border-radius:0;border-radius:0}
+.box .arena.tabactive{width:645px\9!important}
+.tabactive .box01{width:300px;width:315px\9;float:right;clear:none;height:331px;border:0;padding:0;margin:0 0 15px;cursor:pointer}
+.tabactive .box01:nth-of-type(even){margin-right:15px}
+.content-stream .content .txt,.articles .content-stream .content .txt{float:right;height:110px;padding:10px;width:280px}
+.content-stream .content .txt p{display:none}
+.content-stream .content .img-box b img{width:300px;height:200px;border:0;margin:0}
+.box01 h4.headline a{font:24px/24px MyTestMedium}
+.box01 h4.headline{height:55px;margin-bottom:10px;overflow:hidden}
+.content-stream .content .loadmore{border:0 none;cursor:pointer;display:inline-block;font:24px/14px MyTestMedium;padding:10px 0 17px;width:100%;webkit-border-radius:0;moz-border-radius:0;border-radius:0;color:#4b4a4a;background:#ECECED;filter:none}
+#extras{width:300px;margin:20px 0 0}
+#extras .agt-live-killer.killerbanner{width:300px;text-align:center;padding:30px 0 9px}
+#extras .featured-articles{width:313px;height:310px;margin:0 0 20px}
+#extras .featured-articles h3,#extras .featured-articles h4 a{font-size:30px;color:#fff;margin:0 0 10px;padding:0 17px;float:right}
+#extras .featured-articles img{width:280px;height:200px;border:0;box-shadow:none}
+#extras .featured-articles-desc{display:none}
+#extras .featured-articles > span{background:#000;float:left;margin-top:10px;margin-left:15px;padding:0;width:72px;webkit-border-radius:5px;moz-border-radius:5px;border-radius:5px}
+#extras .featured-articles > span a{color:#FFF;display:block;font:20px/15px mytestmedium;height:23px;text-decoration:none;width:100%}
+#extras .featured-articles h4{float:right}
+#extras .featured-articles h4 a{line-height:32px}
+#extras .box.poll_sml{border:0}
+#main .box.poll_sml .head h3,#extras .box.poll_sml .head h3{float:none;border-bottom:1px solid #dadad6}
+.box.poll_sml .questionName{direction:ltr;padding-bottom:10px;font-size:30px;font-family:mytestbold}
+.box.poll_sml .results dd span{top:-4px}
+.box.poll_sml .results dt{font-size:20px;padding-bottom:5px}
+#main .box.poll_sml .text,#extras .box.poll_sml .text{font:24px MyTestMedium}
+#extras .box.wrap_maintt4{border:0;background:#DFDEDE}
+#extras .box .head h3,#extras .box .head h2{font:30px/30px MyTestMedium;color:#3b3b3b}
+#extras .mystuff .alboum-list .photo img{border:0;box-shadow:none;margin:0}
+#extras #myslide{left:5px;margin:0}
+#extras .box.wrap_maintt4 #button > a.active,#main .box.wrap_maintt4 #button > a.active,#extras .box.wrap_maintt4 #button > a,#main .box.wrap_maintt4 #button > a{box-shadow:none!important;border:0!important}
+#site-info{padding-top:20px}
+#site-info h4,#copyright{border:0 none;padding-bottom:15px;padding-right:0}
+#site-info h4 a{font:21px mytestmedium}
+#site-info .info-form{display:block;height:6px;position:relative;top:-122px;width:976px}
+#site-info #site-info-inner .copyrights{background:url(../img/mbc-logo-mid-brand.png) no-repeat scroll center 15px transparent!important;font:14px mytestmedium;direction:ltr!important;padding-top:50px}
+#site-info div.links div{margin:0 0 10px;width:125px}
+#site-info ul{width:auto;margin:0 0 0 10px}
+#site-info .links{margin-right:20px}
+#site-info .links:first-child{margin-right:50px}
+#main .wrap_comments{padding:0 20px}
+.alboum-page #wrapper-3-inner{overflow:hidden}
+.alboum-page #main .wrap_comments{width:600px}
+.alboum-page #wrapper-3-inner{padding:0;margin:0 auto}
+#main .wrap_article .vid-info h2,.box .head h3,.box .head h3 a,.wrap_comments h2,.wrap_forms h2,.box .head h2{color:#303030;font:36px/54px MyTestBold}
+.wrap_flashapp .head,.wrap_multimedia_article .wrap-options,.wrap_GSMcodes .head h3,.wrap_comments h2,.wrap_comments .comments-header{border-width:0 0 1px}
+.wrap_flashapp .head,.wrap_multimedia_article .wrap-options,.wrap_GSMcodes .head h3,.wrap_comments h2,.wrap_comments .comments-header,.wrap_comments .comments-header .filter,.wrap_article td{border-color:#D0D0D0}
+#comments .odd{background:none repeat scroll 0 0 #F0F0F0!important}
+#main .wrap_article table,#main .wrap_article .table-wrapper,#main .wrap_article .list-wrapper,.article_extras .toc,.article_extras .broadcasting-times,.article_extras .social-media,.article_extras .multimedia_details,.blockquote.quote,.wrap_tags_sml,.wrap_comments .comments .odd,.wrap_article .wrap_video_lrg .vid-info,.quote p.quote-meta,.image-art .caption,.left_box,.articles .article_extras .toc,blockquote.quote,dl.photo,.wrap_photos{background:none repeat scroll 0 0 #F4F4F4}
+.wrap_maintt2 ul.lnklst,.wrap_maintt3 ul.lnklst,.wrap_maintt5 .mainttl_c,#main form .button-wrapper{border:0 none}
+#comments .filter{border:0 none}
+#main .archttl{cursor:pointer;border-width:0 0 1px}
+.mainslider,#main .archttl{border-color:#CCC}
+#main .archttl .img-box{width:195px}
+#main .archttl .img-box img{height:123px;left:-4px;position:relative;top:4px;width:188px}
+#main .box.wrap_maintt4 #button > a.button4,#extras .box.wrap_maintt4 #button > a.button4{top:8px;background:url(/dms/creative/channels/mbc-1-2013/img/arrow-right-related-box.png) no-repeat scroll center top transparent!important}
+#main .box.wrap_maintt4 #button .disabledArrow,#extras .box.wrap_maintt4 #button .disabledArrow{top:1px;background:url(/dms/creative/channels/mbc-1-2013/img/arrow-left-related-box-off.png) no-repeat scroll center top transparent}
+.articles #main .box.wrap_maintt4,#main #myslide{width:600px}
+#main .wrap .archttl h3,#main .wrap .archttl .info,#main .wrap .archttl p{width:390px}
+#main .wrap.grid-view .archttl h3,#main .wrap.grid-view .archttl .info{width:190px}
+#main .grid-view .archttl{width:190px;height:235px;border:0}
+#main .wrap.grid-view .archttl p{display:none!important}
+#main .archttl h3 a{color:#303030;font:24px/18px mytestmedium!important}
+#main .wrap .archttl p{font:14px/20px Tahoma,Geneva,sans-serif}
+#main .wrap .archttl p a{color:#303030;font-family:"MyTestBold";font-size:20px;font-weight:400;line-height:20px}
+.box.wrap_maintt4 #button{direction:ltr}
+#extras .extras-tabs-toc a,#extras .pager li a,#extras .wrap_audio_sml .lnklst li .episode-source a,#extras .graph dd,.special .wrap-options li.tab-button a,.special .pager li a,.wrap-options li.tab-button a,.text-box-toc li a,.multipoll .toc a span,.multipoll .toc a span,.multipoll .toc a span,.graph dd,.pager li a,.jspTrack{background-color:#c7cdd4;color:#fff}
+#extras .extras-tabs-toc .on,#extras .special .pager li,.wrap-options li.tab-button .on,.text-box-toc li .on,.pager li strong,.multipoll .toc a.on span,.multipoll .toc a:hover span,.multipoll .toc a:active span,.graph dd .bar,.special .wrap-options li.tab-button .on,.special .pager li strong{background-color:#A1A3A9;color:#fff}
+#main .pager .next a,#main .pager .previous a,#main .pager .next a:hover,#main .pager .previous a:hover,.wrap_GSMcodes .head,#main .wrap_article .head,#main .wrap_grid .head,#main .box.special .head,#main .wrap_multimedia_article .head{background:transparent}
+#extras .extras-tabs-toc a:hover,#extras .pager li a:hover,#extras .wrap_audio_sml .lnklst li .episode-source a:hover,#extras .graph dd .bar,.special .wrap-options li.tab-button a:hover,.special .pager li a:hover,.jspDrag,.jspArrow.jspDisabled,.wrap_features .next span:hover,.text-box-toc li a:hover,.wrap-options li.tab-button a:hover,.pager li a:hover,.wrap_features .prev span:hover{background-color:#9ba2ab;color:#FFF}
+#main .pager li.next a:hover,#main .pager li.previous a:hover{color:#303030}
+.program-listing-block{padding:15px 0;width:615px;height:287px}
+.program-listing .SS_roll > div{width:196px;height:220px}
+.program-listing{width:615px!important;height:200px}
+.SS_roll{float:right;left:10px}
+.program-listing .SS_roll .main-img img{width:186px;height:104px;border:0;box-shadow:none}
+.SS_right-arrow span{background:url(../img/slider-arrow-right.png) 0 0 no-repeat}
+.SS_left-arrow span{background:url(../img/slider-arrow-left.png) 0 0 no-repeat}
+.program-listing .SS_left-arrow,.program-listing .SS_right-arrow{background:#fff;width:25px!important}
+.program-listing .SS_right-arrow span,.program-listing .SS_left-arrow span{width:31px;height:39px;top:40px!important}
+.photos-browser{display:none}
+.share-bar{margin:0 15px 10px}
+.wrap_article h2,.mainttl_a h2,.mainttl_video h3{font:30px/30px mytestmedium;margin:0 0 10px}
+#main .wrap_article .content{padding-top:0}
+#main .mystuff .alboum-list{margin:6px 0;width:150px;overflow:hidden;height:175px}
+#main .mystuff .photo{margin:0}
+.wrap_article .content-stream .tabactive{margin:0}
+#main .wrap_article .content-stream .content{padding:0}
+#main .mystuff{width:600px;left:0}
+#main .mystuff .alboum-list .photo img{border:0;box-shadow:none}
+.mystuff .alboum-list h3{width:137px}
+#main .wrap_article{padding-bottom:0;margin-bottom:0}
+.mystuff .alboum-list{float:left}
+#extras .social-feed iframe{width:313px!important;height:70px!important}
+#extras .hashtagbox P{margin-bottom:0}
+#wrapper #wrapper-3-inner #extras .social_sml .content .arena div{width:303px!important;padding-top:1px}
+#main .wrap_mainttl,#main .wrap_maintt2{padding-top:0}
+#main .box.wrap_maintt4 #button > a.button0,#extras .box.wrap_maintt4 #button > a.button0{top:8px;background:url(/dms/creative/channels/mbc-1-2013/img/arrow-left-related-box.png) no-repeat scroll center top transparent!important}
+.alboum-page #alboum-list{margin:0 auto;width:950px}
+#main .askpresenter h3{font:40px/60px mytestmedium;color:#1d1d1d}
+#main .wrap_askpresenter{margin:15px 15px 0}
+.internals #main .wrap_askpresenter{margin:0 15px 15px}
+#main .askpresenter .content{background:none repeat scroll 0 0 #dbdbdb;min-height:190px}
+#main .wrap_askpresenter .read-more{background:#d31e1e;bottom:15px;display:block;height:auto;left:15px;padding:0 10px 10px;position:absolute;width:auto;webkit-border-radius:5px;moz-border-radius:5px;border-radius:5px;color:#fff;font:24px/24px mytestmedium}
+#main .askpresenter .content p{font:24px/30px mytestmedium;color:#515050}
+#main .wrap_askpresenter .read-more span{display:none}
+.wrap_article .gig-bar-container td,.wrap_article .gig-bar-container th{text-align:right}
+#main .box.poll_sml .questionName{margin:0;padding-left:15px;height:60px}
+.box .article_extras h2{font-family:mytestmedium;font-size:22px;font-weight:400;margin-bottom:3px}
+.article_extras #toc a{color:#666;font-family:arial;font-size:15px}
+.article_extras #toc a:hover{color:#ab2c2d}
+.article_extras .multimedia_details p{font-family:mytestmedium;font-size:22px;font-weight:400;margin-bottom:5px}
+.article_extras .multimedia_details p span{font-family:arial;font-size:15px}
+.article_extras .toc li,.article_extras .multimedia_details li{font-family:arial;font-size:15px;font-weight:400;margin:0;padding-right:0}
+.article_extras .toc ul,.article_extras .multimedia_details ul{padding-right:0}
+.gig-simpleShareUI + IFRAME{height:80px!important}
+.quote p{font-family:arial;font-size:15px;font-weight:400}
+.articles .box.wrap_article div div.table-wrapper{float:right;width:100%}
+.articles .community-wrapper .box,.articles .wrap_flashapp{float:right;width:100%}
+.articles .box .arena{width:625px\9}
+html[data-useragent*='MSIE 10.0'] .articles .box .arena{width:625px}
+#main form .button-wrapper input[type="button"]{margin-left:44px\9}
+#main .box.wrap_article .box.poll_sml.special,#main .box.wrap_article .box.poll_sml.special .content{background:none repeat scroll 0 0 #e5e5e5!important}
+#main .box.poll_sml,#extras .box.poll_sml,#main .box.poll_sml.special .content{background:none repeat scroll 0 0 #e5e5e5!important}
+.askpresenter .arena{float:left;width:375px}
+.articles a:hover,.articles .pager .next a:hover,.articles .pager .previous a:hover{color:#A1A3A9}
+.mains .box.floatingtakeover{font:26px mytestmedium;padding:20px 20px 0}
+#main .wrap .archttl h3,#main .wrap .archttl .info,#main .wrap .archttl p{width:386px}
+.box.wrap_articles_sml{background:none repeat scroll 0 0 #ececed}
+#extras .wrap_articles_sml h3 a{font:20px mytestmedium}
+#main .box .head h3{font:36px/14px mytestmedium;padding:4px 10px 21px}
+.articles .content-stream.box.wrap{float:right}
+#site-info li{list-style:disc inside none}
+#site-info li a{background:none;padding-right:0;font:18px/18px mytestmedium;font-size:17px\0/;display:inline-block}
+.show-channel-logos img{float:none}
+.show-time > .show-time-ksa > span,.show-time > .show-time-gmt > span{margin-left:2px;color:#fff}
+.show-time span{color:#818181}
+.show-day{color:#fff}
+.show-time-arrow .dropdown-arrow{background:url(../img/arrow-up.png) 0 0 no-repeat}
+.channel-repeat-time{border-right:0 none;width:145px!important}
+.program-repeat-time .show-time-arrow .dropdown-arrow{background:url(../img/arrow-down.png) 0 0 no-repeat}
+.repeat-time .show-channel-logos{width:45px}
+.wrap_channel_navigation_inner > ul{height:41px}
+.content-stream.box.content-stream-full-width{width:980px}
+#main .content-stream.box.content-stream-full-width .content{padding:0}
+body ul.nav-global{margin-right:0!important}
+.content-stream-full-width .tabs{margin:0 15px 15px}
+.content-stream-full-width .tabactive{padding-right:7px}
+.content-stream-full-width .tabactive .box01{width:306px;margin:0 8px 15px}
+.content-stream-full-width .content .img-box b img{height:auto;width:100%}
+.content-stream-full-width .content .txt,.articles .content-stream-full-width .content .txt{width:95%}
+.content-stream-full-width .content .loadmore{margin-right:8px;width:950px}
+.box.kill-banner.win-killer{height:326px;width:300px}
+#section-header{height:87px;width:980px;position:relative;right:0}
+.program-timing{background:url(../img/time-bg.jpg) no-repeat center center;height:28px;padding:13px 0 0;top:66px;right:205px!important}
+.show-channel-logos{border-left:0 none;height:40px;min-width:auto;width:auto;position:relative;top:-10px}
+.show-channel-logos.channel2,.show-channel-logos.channel3{border-right:1px solid #d6d6d6;margin-right:9px;padding-right:0;top:-3px;position:relative;height:27px}
+.show-channel-logos img{height:20px}
+.show-channel-logos.channel2 img,.show-channel-logos.channel3 img{margin-top:1px}
+.show-day{color:#757474;font:17px/20px MyTestbold;margin-bottom:3px;margin-top:-4px;width:46px;position:absolute;float:left}
+.show-time{color:#060606;font:15px/12px MyTestMedium;margin:0;width:209px!important;display:flex}
+.program-timing .show-time > .show-time-ksa > span,.program-timing .show-time > .show-time-gmt > span{color:#000;font:18px MyTestMedium}
+.program-timing .show-time span{color:#000;font:17px/12px MyTestbold;margin-left:0;margin-right:3px;top:0}
+.show-time-ksa,.show-time-gmt{float:right}
+.show-time-arrow{margin:11px 7px 6px 5px}
+.show-time-arrow .dropdown-arrow{background:url(../img/arrow-up-v1.png) 0 0 no-repeat}
+.program-repeat-time{background:url(../img/time-bg.jpg) no-repeat center center;background-size:100%;left:auto;padding:10px 0 0;right:0;width:100%;box-sizing:border-box;height:38px}
+.repeat-time .show-channel-logos{width:auto}
+.program-repeat-time .show-time-arrow{bottom:0;height:11px;left:0;position:absolute;width:11px}
+.program-repeat-time .show-time-arrow .dropdown-arrow{background:rgba(0,0,0,0) url(../img/arrow-down-v1.png) no-repeat scroll 0 0;margin:0}
+.show-time .show-time{margin:-6px 52px 2px 5px;float:left}
+#section #extras .agt-live-killer.killerbanner{height:285px}
+.sponser-main{float:left;top:9px;position:relative;left:15px}
+.sponser-main .kia .logo{background:url(../img/kia-logo.png) no-repeat scroll top center transparent;width:82px;height:41px}
+.sponser-main p{font:normal 24px mytestmedium;color:#000;display:inline-block;margin-left:10px}
+.sponser-main > div{display:inline-block}
+.sponser-main .kia{top:17px;position:relative}
+.sponser-main a{display:block}
+#main .box.poll_sml .pollVideo .gig-bar-container table tbody tr,#main .box.poll_sml .pollImage .gig-bar-container table tbody tr{float:right;width:162px;margin:0 22px}
+#main .box,.community-wrapper .box,.wrap_flashapp{margin:15px}
+.box.about{min-height:301px;background:url(../img/ab-judges.jpg?v=23) no-repeat center 49px;background-size:100%;margin-top:50px!important;padding-top:36px}
+.box.about h3{margin-top:-32px;height:9px;font:36px/14px mytestmedium;padding:4px 10px 33px;color:#000}
+.box.about .jud-links{position:relative;width:100%;height:279px;top:0;left:0}
+.box.about .jud-links a{max-width:33%!important;min-width:33%!important;display:block;float:left;height:100%;left:0;margin-left:0}
+.mains #main .box{margin:15px 0}
+#wrapper-3{margin-top:5px!important}
+#main .wrap_maintt2{font-family:mytestmedium;font-size:20px}
+#main .wrap_maintt2 .content{padding:0 15px}
+.program-listing .SS_right-arrow span,.program-listing .SS_left-arrow span{top:21%!important;width:15px;height:49px;left:0!important}
+.wrap_channel_navigation .wrap_channel_navigation_inner{width:100%}
+.box.poll_sml .results dd span{color:#dfdfda;text-shadow:1px 1px 1px rgba(43,43,43,1)}
+#extras{float:left;margin-left:20px}
+#section #extras .agt-live-killer.killerbanner{padding:10px 0 0}
+#extras .box.social_sml{padding:0}
+.articles #wrapper-3{margin:0 auto}
+.block-header h3{font:36px mytestmedium;color:#303030;text-align:right;margin:0;padding:4px 10px 21px}
+body{background-color:#f4f3f1}
+#site-info .info-form,#site-info #site-info-inner .copyrights{border-top:1px solid #53504e}
+#site-info #site-info-inner .copyrights,#site-info li,#site-info li a,#site-info a{color:#5c5a59}
+#site-info a:hover{color:#fb9c00}
+.wrap_channel_navigation ul li a{color:#fff}
+.wrap_channel_navigation li:hover a,.wrap_channel_navigation li strong{background-color:#ebebe9;color:#fff}
+.wrap_channel_navigation ul ul{background:#ebebe9}
+.wrap_channel_navigation ul ul li:hover a,.wrap_channel_navigation ul ul li strong{background:#ebebe9}
+.wrap_channel_navigation_inner > ul{margin-right:0;background:transparent;min-height:41px}
+.wrap_channel_navigation ul.nav-global li:hover ul li a span{background:transparent!important}
+ul.nav-global li:hover li a span{background:transparent!important}
+.wrap_channel_navigation ul.nav-global > li > span,.wrap_channel_navigation ul.nav-global > li > a > span{float:right;font:24px/25px mytestmedium;padding:3px 12px 13px}
+.wrap_channel_navigation ul.nav-global li,.wrap_channel_navigation ul.nav-global li:hover{background:url(../img/nav-separate.jpg) no-repeat scroll left 9px transparent!important;background-size:1px 22px!important}
+.wrap_channel_navigation ul.nav-global li:hover a{background:none}
+.wrap_channel_navigation .wrap_channel_navigation_inner ul.nav-global li:last-child{background:none repeat scroll 0 0 rgba(0,0,0,0)!important}
+.wrap_channel_navigation ul.nav-global li .menu-box.single-column{padding:0;width:230px}
+.wrap_channel_navigation .menu-box-group{background:none repeat scroll 0 0 rgba(0,0,0,0);border:0 solid #353434;filter:none!important;padding:0}
+.wrap_channel_navigation ul.nav-global li.menu-visible .menu,.wrap_channel_navigation ul.nav-global li:hover .menu{display:block;right:auto;top:auto}
+.js-on .wrap_channel_navigation ul.nav-global li:hover .menu,.wrap_channel_navigation ul.nav-global li .menu{width:230px;padding:0;background:none repeat-x scroll 0 0 #fff;margin-right:0;top:41px}
+ul.nav-global .menu-box{padding:10px;border-right:none}
+.wrap_channel_navigation ul.nav-global .menu-box h3,.wrap_channel_navigation ul.nav-global .menu-box h3 a{display:none}
+.wrap_channel_navigation .contestant-tab + ul{height:50px;width:100%;background:url(../img/sponsers/cadbury.png?v=324) no-repeat center center!important;background-size:auto!important}
+.wrap_channel_navigation .performance-tab + ul{height:50px;width:100%;background:url(../img/sponsers/7up-logo-v2.png) no-repeat center center!important;background-size:auto!important}
+.wrap_channel_navigation ul h3.about-tab + ul{height:50px;background:url(../img/img-large/Himalaya.jpg) no-repeat center center!important}
+.wrap_channel_navigation ul h3.scenes-tab-li + ul{height:50px;background:url(../img/img-large/LVQR.png) no-repeat center center!important}
+ul.nav-global li .menu-box.single-column ul{float:right;padding:0;top:0}
+.wrap_channel_navigation ul.nav-global li .menu-box li:first-child{border:none}
+.wrap_channel_navigation ul.nav-global li .menu-box li.scenes-tab a{background:url(../img/img-small/LVQR.jpg) no-repeat 15px 14px!important}
+.wrap_channel_navigation ul.nav-global li .menu-box li.contestant-tab{background:url(../img/sponsers/oreo-logo-v1.png) no-repeat 15px center!important}
+.wrap_channel_navigation ul.nav-global li .menu-box li{float:right;height:50px;margin:0;padding:0!important;text-align:right;width:230px}
+.wrap_channel_navigation ul.nav-global li .menu-box li a{padding-right:20px!important;padding-top:0!important}
+.wrap_channel_navigation ul.nav-global li .menu-box li,.wrap_channel_navigation ul.nav-global li .menu-box li a,.wrap_channel_navigation ul.nav-global li .menu-box a{background:none repeat scroll 0 0 rgba(0,0,0,0)!important}
+.wrap_channel_navigation ul.nav-global .menu-box li a,.wrap_channel_navigation ul.nav-global .menu-box li a span{font:23px/44px mytestmedium;width:auto;padding:8px 15px 10px!important;color:#fff;font:23px/44px mytestmedium;width:auto;padding:8px 15px 10px!important;color:#060606}
+.presenters-container{background:url(../img/presenters.jpg) no-repeat scroll top center transparent;width:305px;height:391px;position:relative}
+.presenters-container .qusai{display:block;width:157px;height:336px;position:absolute;top:55px}
+.presenters-container .raya{display:block;width:136px;height:336px;position:absolute;left:17px;top:55px}
+.socialshare .tablepad tr{background:url(http://www.mbc.net/dms/creative/programs-2017/feb/arabs-got-talent-s5/img/socialshare-tr-v1.jpg) no-repeat scroll center bottom #f8f8fc;float:left;width:312px}
+.socialshare{background:none repeat scroll 0 0 rgba(0,0,0,0);height:275px;padding-top:2px}
+.tablepad tr td{padding-bottom:8px;padding-left:20px;padding-top:10px;text-align:left}
+body,table td,select,button{color:#747474;font:14px Tahoma,Geneva,sans-serif}
+.main-title span.main-option-1{background:url(http://www.mbc.net/dms/creative/programs-2017/feb/arabs-got-talent-s5/img/video-logo.png) no-repeat scroll top center transparent;width:51px!important;height:51px;position:absolute;top:95px;left:9px}
+.program-listing h3 a{font:25px/24px mytestmedium}
+.judegs-main-container{position:relative;height:410px}
+.judegs-container{width:980px;height:380px;position:absolute;top:30px;right:10px}
+.winners .judegs-container{height:0}
+.winners a.winner{display:block;height:412px;width:100%;top:185px;position:absolute}
+.judegs-container a,.judges-about a,.presenters-about a{display:block;position:absolute;height:100%}
+.judegs-container .ahmad-hilmi{width:332px;right:54px}
+.judegs-container .najwa-karam{width:212px;right:385px}
+.judegs-container .ali-jaber{width:353px;right:613px}
+.judges-about{background:url(../img/about-judes.jpg) no-repeat scroll top center transparent;width:613px;height:291px;position:relative}
+.presenters-about{background:url(../img/about-presenter.jpg) no-repeat scroll top center transparent;width:613px;height:257px;position:relative}
+.judges-about .ahmad-hilmi{width:118px;right:108px}
+.judges-about .najwa-karam{width:140px;right:226px}
+.judges-about .ali-jaber{width:236px;right:374px}
+.presenters-about .qusai{width:235px;right:73px}
+.presenters-about .raya{width:189px;right:309px}
+.articles #wrapper #wrapper-3-inner{margin-top:16px}
+.articles .wrap_article .article-extras-box .multimedia-details-box > ul{min-width:auto}
+.mains .program-listing-block{width:980px;height:300px;padding:0 20px;box-sizing:border-box}
+.mains .program-listing{width:950px!important;height:300px!important}
+.mains #extras{margin-top:10px}
+.mains .program-listing .SS_roll > div{width:225px;height:235px}
+.mains .program-listing .SS_roll .main-img img{width:214px;height:143px}
+.mains .block-header h3{padding:4px 10px 0}
+.main-option-3{background:url(http://www.mbc.net/dms/creative/programs-2017/feb/arabs-got-talent-s5/img/video-logo.png) no-repeat scroll top center transparent;width:51px!important;height:51px;position:absolute;top:-78px;left:0;margin:auto;right:0;bottom:0;cursor:pointer}
+.program-listing .SS_left-arrow span{left:8px!important}
+.sponser-main{float:left;top:25px;position:absolute;left:43px;height:100px;width:auto}
+.sponser-main > div{display:inline-block}
+.sponser-main a{display:block}
+.samsung a.logo{width:100%;height:100%;background:url(../img/sponsers/samsung.png?v=1) no-repeat scroll top center transparent}
+.sponser-main p{font:normal 20px mytestmedium;color:#fff;display:inline-block;margin-left:0}
+.sponser-main .himalaya .logo{background:url(../img/sponsers/himalaya-logo-v2.png?v=1) no-repeat scroll top center transparent;width:70px;height:30px}
+.sponser-main .himalaya{margin:0 3px;position:relative;top:45px;right:-130px}
+.sponser-main .lavascqiri .logo{background:url(../img/sponsers/lavashqiri-logo-v1.png) no-repeat scroll top center transparent;width:40px;height:36px;display:block}
+.sponser-main .lavascqiri{margin:0 3px;top:15px;position:absolute;right:265px}
+.sponser-main .alicafe .logo{background:url(../img/sponsers/alicafe-logo-v4.png?dfgsdfg=dfgdfg) no-repeat scroll top center transparent;width:51px;height:50px}
+.sponser-main .alicafe{margin:0 3px;position:relative;top:7px;right:17px}
+.sponser-main .sevenup .logo{background:url(../img/sponsers/7up-logo-v2.png) no-repeat scroll top center transparent;width:28px;height:33px}
+.sponser-main .sevenup{margin:0 3px;position:absolute;top:65px;right:126px}
+.sponser-main .cadoury .logo{background:url(../img/sponsers/cadbury-logo.png) no-repeat scroll top center transparent;width:60px;height:34px}
+.sponser-main .cadoury{margin:0 3px;position:relative;top:45px;right:67px}
+.sponser-main .oreo .logo{background:url(../img/sponsers/oreo-logo-v1.png) no-repeat scroll top center transparent;width:59px;height:22px;display:block}
+.sponser-main .oreo{margin:0 3px;position:relative;top:39px;right:67px}
+.sponser-main .kfc-logo .logo{background:url(../img/sponsers/kfc-logo.png?v=1) no-repeat scroll top center transparent;width:32px;height:32px}
+.sponser-main .kfc-logo{margin:0 3px;position:absolute;top:18px;right:123px}
+.sponser-main .saudia{margin:0 3px;position:relative;top:45px;left:10px}
+.sponser-main .saudia .logo{background:url(../img/sponsers/saudia-logo.png?v=1) no-repeat scroll top center transparent;width:88px;height:31px}
+.sponser-main .samsung{margin:0 3px;position:absolute;top:23px;right:166px;width:95px;height:22px}
+.sponser-main .title{position:relative;top:8px}
+.chocolate-quiz-menu-item img{display:none}
+#wrapper-3{margin-top:0!important}
+@media screen and (max-width: 980px) {
+.wrap_channel_navigation ul.nav-global > li > span,.wrap_channel_navigation ul.nav-global > li > a > span{padding:3px 18px 13px 11px}
+}
+.wrap_channel_navigation ul.nav-global li .menu-box li.samsung-logo{background:url(../img/img-small/samsung-logo.png) no-repeat 0 center!important}
+.jud-links{width:978px;height:350px;top:205px;position:absolute;text-align:center;margin:auto;left:14px}
+.jud-links a{display:block;min-width:100px;height:100%;float:left}
+a.mrwan{width:235px}
+a.mona{width:239px}
+.jud-links a.bobi{margin-left:167px;width:226px}
+.sponsor{width:491px;height:47px;float:left;position:absolute;left:0;top:12px}
+.sponsor .logo{float:left;height:50px}
+.sponsor .title{width:43px;height:43px;float:right;font:20px/41px mytestbold;color:#5b5b5b;margin-top:9px}
+.sponsor .title:after{content:':'}
+.sponsor .logo a{display:block}
+.flavor-secret .sponsor{width:121px;left:56px}
+
+.sponsor .logo a.nutella{background:url(../img/spon/nutella.png) no-repeat center 100%;height:46px;width:99px}
+.sponsor .logo a.sadia{background:url(../img/spon/sadia.png) no-repeat right 100%;height:45px;width:74px}
+.sponsor .logo a.samsung{background:url(../img/spon/samsung.png) no-repeat center 100%;height:46px;width:137px}
+.sponsor .logo a.puck{background:url(../img/spon/puck.png) no-repeat center 100%;height:48px;width:68px}
+.sponsor .logo a.afia{background:url(../img/spon/afia.png) no-repeat center -12px;height:48px;width:69px}
+.flavor-secret #wrapper{background:url(../img/flavor-secret/wings.jpg?nocach=10) center center no-repeat #f4f3f1}
+.mains #wrapper{background:url(../img/wings.jpg?v=1) center center no-repeat transparent}
+#wrapper{background:url(../img/inner-wings.jpg?nocach=10) center center no-repeat #f4f3f1}
+.wrap_channel_navigation ul.nav-global li:hover a span{background:#fb9b00!important;color:#FFF!important}
+.wrap_channel_navigation ul.nav-global > li > span,.wrap_channel_navigation ul.nav-global > li > a > span{color:#0e0e0e}
+.wrap_channel_navigation ul.nav-global li .menu-box li a span{padding:0!important;color:#000}
+.wrap_channel_navigation ul.nav-global li:hover .menu-box li a span{color:#000!important}
+.wrap_channel_navigation ul.nav-global li:hover .menu-box li:hover a span{color:#FFF!important}
+.wrap_channel_navigation ul.nav-global li .menu-box li:hover{background-color:#fb9b00!important}
